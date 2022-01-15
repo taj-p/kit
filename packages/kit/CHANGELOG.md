@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.232
+
+### Patch Changes
+
+- Preserve explicit ETag header ([#3348](https://github.com/sveltejs/kit/pull/3348))
+
 ## 1.0.0-next.231
 
 ### Patch Changes
